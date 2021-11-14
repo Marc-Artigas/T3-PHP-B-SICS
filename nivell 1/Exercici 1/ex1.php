@@ -6,7 +6,7 @@
     $n3 = "15";
     $n4 = true;
 
-    
+   var_dump($n1,$n2,$n3,$n4); //comprobem el tipus de variables 
 
 
 
