@@ -24,6 +24,17 @@
     echo "Producte de ".$n." * ".$m." = ".$n*$m."<br>";
     echo "Mòdul de ".$n." % ".$m." = ".$n%$m."<br>";
 
+    //doble de cada variable
+    echo "Doble de la variable X = ".($x*2)."<br>";
+    echo "Doble de la variable Y = ".($y*2)."<br>";
+    echo "Doble de la variable N = ".($n*2)."<br>";
+    echo "Doble de la variable M = ".($m*2)."<br>";
+
+    //suma de totes les variables
+    echo "Suma de totes les variables = ".$x+$y+$n+$m."<br>";
+    //producte de totes les variables
+    echo "Producte de totes les variables = ".$x*$y*$n*$m."<br>";
+
 
 
 
