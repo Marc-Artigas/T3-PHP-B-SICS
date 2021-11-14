@@ -2,13 +2,7 @@
 
 
 define("nom", "Marc");
-echo nom;
-
-
-
-
-
-
+echo "<h1><b>nom</b></h1>";
 
 
 
